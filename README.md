@@ -1,3 +1,3 @@
 # LANL
-LANL Earthquake Prediction
+LANL Earthquake Prediction. 
 Kaggle Competition
